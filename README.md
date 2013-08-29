@@ -23,7 +23,7 @@ look for plug-ins from there.
 
 Then update ~/.lein/profiles.clj to contain the following:
 
-    {:user {:plugins [[lein-suck-deps "0.1.0-SNAPSHOT"]]}}
+    {:user {:plugins [[lein-suck-deps "0.1.0"]]}}
 
 ## Usage
 

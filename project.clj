@@ -1,4 +1,4 @@
-(defproject lein-suck-deps "0.1.0-SNAPSHOT"
+(defproject lein-suck-deps "0.1.0"
   :description "Link Leiningen project dependencies to a given directory."
   :url "https://github.com/mjhanninen/lein-suck-deps"
   :license {:name "Eclipse Public License"
